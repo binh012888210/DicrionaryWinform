@@ -1,0 +1,8 @@
+2d image
+3d (three dimension) image
+8-bit character string
+abalone
+abandonment
+aba
+abaci
+aaa

@@ -1,0 +1,25 @@
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\bin\Release\Eng_Vn Dict.exe.config
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\bin\Release\Eng_Vn Dict.exe
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\bin\Release\Eng_Vn Dict.pdb
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn Dict.csprojResolveAssemblyReference.cache
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn_Dict.AddFavoriteWords.resources
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn_Dict.Topics.resources
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn_Dict.EngtoVnDict.resources
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn_Dict.Properties.Resources.resources
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn_Dict.SpeechtoText.resources
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn Dict.csproj.GenerateResource.Cache
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn Dict.exe
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn Dict.pdb
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\bin\Release\Eng_Vn Dict.exe.config
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\bin\Release\Eng_Vn Dict.exe
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\bin\Release\Eng_Vn Dict.pdb
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn Dict.csprojAssemblyReference.cache
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn_Dict.AddFavoriteWords.resources
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn_Dict.Topics.resources
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn_Dict.EngtoVnDict.resources
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn_Dict.Properties.Resources.resources
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn_Dict.SpeechtoText.resources
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn Dict.csproj.GenerateResource.cache
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn Dict.csproj.CoreCompileInputs.cache
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn Dict.exe
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Release\Eng_Vn Dict.pdb

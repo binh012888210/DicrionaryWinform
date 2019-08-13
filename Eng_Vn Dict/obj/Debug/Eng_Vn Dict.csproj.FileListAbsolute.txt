@@ -1,0 +1,158 @@
+E:\VisualStudio_Projects\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe.config
+E:\VisualStudio_Projects\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe
+E:\VisualStudio_Projects\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.pdb
+E:\VisualStudio_Projects\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.EngtoVnDict.resources
+E:\VisualStudio_Projects\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Properties.Resources.resources
+E:\VisualStudio_Projects\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csproj.GenerateResource.Cache
+E:\VisualStudio_Projects\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.exe
+E:\VisualStudio_Projects\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.pdb
+E:\VisualStudio_Projects\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.SpeechtoText.resources
+E:\VisualStudio_Projects\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csprojResolveAssemblyReference.cache
+E:\Commit 3\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe.config
+E:\Commit 3\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.exe
+E:\Commit 3\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.pdb
+E:\Commit 3\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe
+E:\Commit 3\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.pdb
+E:\Commit 3\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csprojResolveAssemblyReference.cache
+E:\Commit 3\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.EngtoVnDict.resources
+E:\Commit 3\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Properties.Resources.resources
+E:\Commit 3\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.SpeechtoText.resources
+E:\Commit 3\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csproj.GenerateResource.Cache
+E:\Commit 3\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics.resources
+E:\Commit 3\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics_Management.resources
+E:\Commit 4\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe.config
+E:\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.exe
+E:\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.pdb
+E:\Commit 4\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe
+E:\Commit 4\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.pdb
+E:\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csprojResolveAssemblyReference.cache
+E:\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics.resources
+E:\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.EngtoVnDict.resources
+E:\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Properties.Resources.resources
+E:\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.SpeechtoText.resources
+E:\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics_Management.resources
+E:\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csproj.GenerateResource.Cache
+C:\Users\HT\Desktop\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe.config
+C:\Users\HT\Desktop\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.exe
+C:\Users\HT\Desktop\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.pdb
+C:\Users\HT\Desktop\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe
+C:\Users\HT\Desktop\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.pdb
+C:\Users\HT\Desktop\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csprojResolveAssemblyReference.cache
+C:\Users\HT\Desktop\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics.resources
+C:\Users\HT\Desktop\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.EngtoVnDict.resources
+C:\Users\HT\Desktop\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Properties.Resources.resources
+C:\Users\HT\Desktop\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.SpeechtoText.resources
+C:\Users\HT\Desktop\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics_Management.resources
+C:\Users\HT\Desktop\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csproj.GenerateResource.Cache
+C:\Users\HT\Desktop\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.AddFavoriteWords.resources
+C:\Users\HT\Pictures\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe.config
+C:\Users\HT\Pictures\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.exe
+C:\Users\HT\Pictures\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.pdb
+C:\Users\HT\Pictures\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe
+C:\Users\HT\Pictures\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.pdb
+C:\Users\HT\Pictures\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csprojResolveAssemblyReference.cache
+C:\Users\HT\Pictures\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.AddFavoriteWords.resources
+C:\Users\HT\Pictures\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics.resources
+C:\Users\HT\Pictures\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.EngtoVnDict.resources
+C:\Users\HT\Pictures\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Properties.Resources.resources
+C:\Users\HT\Pictures\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.SpeechtoText.resources
+C:\Users\HT\Pictures\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics_Management.resources
+C:\Users\HT\Pictures\Project Dictionary\Commit 4\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csproj.GenerateResource.Cache
+C:\Users\HT\Downloads\Compressed\New folder\Commit 8\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe.config
+C:\Users\HT\Downloads\Compressed\New folder\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.exe
+C:\Users\HT\Downloads\Compressed\New folder\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.pdb
+C:\Users\HT\Downloads\Compressed\New folder\Commit 8\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe
+C:\Users\HT\Downloads\Compressed\New folder\Commit 8\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.pdb
+C:\Users\HT\Downloads\Compressed\New folder\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csprojResolveAssemblyReference.cache
+C:\Users\HT\Downloads\Compressed\New folder\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.AddFavoriteWords.resources
+C:\Users\HT\Downloads\Compressed\New folder\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics.resources
+C:\Users\HT\Downloads\Compressed\New folder\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.EngtoVnDict.resources
+C:\Users\HT\Downloads\Compressed\New folder\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Properties.Resources.resources
+C:\Users\HT\Downloads\Compressed\New folder\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.SpeechtoText.resources
+C:\Users\HT\Downloads\Compressed\New folder\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics_Management.resources
+C:\Users\HT\Downloads\Compressed\New folder\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csproj.GenerateResource.Cache
+C:\Users\HT\Desktop\Commit 8\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe.config
+C:\Users\HT\Desktop\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.exe
+C:\Users\HT\Desktop\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.pdb
+C:\Users\HT\Desktop\Commit 8\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe
+C:\Users\HT\Desktop\Commit 8\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.pdb
+C:\Users\HT\Desktop\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csprojResolveAssemblyReference.cache
+C:\Users\HT\Desktop\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.AddFavoriteWords.resources
+C:\Users\HT\Desktop\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics.resources
+C:\Users\HT\Desktop\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.EngtoVnDict.resources
+C:\Users\HT\Desktop\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Properties.Resources.resources
+C:\Users\HT\Desktop\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.SpeechtoText.resources
+C:\Users\HT\Desktop\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics_Management.resources
+C:\Users\HT\Desktop\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\Commit 9\Commit 8\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe.config
+C:\Users\Admin\Downloads\Commit 9\Commit 8\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe
+C:\Users\Admin\Downloads\Commit 9\Commit 8\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.pdb
+C:\Users\Admin\Downloads\Commit 9\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.AddFavoriteWords.resources
+C:\Users\Admin\Downloads\Commit 9\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics.resources
+C:\Users\Admin\Downloads\Commit 9\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.EngtoVnDict.resources
+C:\Users\Admin\Downloads\Commit 9\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Properties.Resources.resources
+C:\Users\Admin\Downloads\Commit 9\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.SpeechtoText.resources
+C:\Users\Admin\Downloads\Commit 9\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\Commit 9\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.exe
+C:\Users\Admin\Downloads\Commit 9\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.pdb
+C:\Users\Admin\Downloads\Commit 9\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csprojResolveAssemblyReference.cache
+C:\Users\E6440\Downloads\Commit 12\Commit 8\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe.config
+C:\Users\E6440\Downloads\Commit 12\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.exe
+C:\Users\E6440\Downloads\Commit 12\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.pdb
+C:\Users\E6440\Downloads\Commit 12\Commit 8\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe
+C:\Users\E6440\Downloads\Commit 12\Commit 8\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.pdb
+C:\Users\E6440\Downloads\Commit 12\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csprojResolveAssemblyReference.cache
+C:\Users\E6440\Downloads\Commit 12\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.AddFavoriteWords.resources
+C:\Users\E6440\Downloads\Commit 12\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics.resources
+C:\Users\E6440\Downloads\Commit 12\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.EngtoVnDict.resources
+C:\Users\E6440\Downloads\Commit 12\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Properties.Resources.resources
+C:\Users\E6440\Downloads\Commit 12\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.SpeechtoText.resources
+C:\Users\E6440\Downloads\Commit 12\Commit 8\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csproj.GenerateResource.Cache
+C:\Users\BINH LUC\Desktop\Commit13\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe.config
+C:\Users\BINH LUC\Desktop\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.exe
+C:\Users\BINH LUC\Desktop\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.pdb
+C:\Users\BINH LUC\Desktop\Commit13\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe
+C:\Users\BINH LUC\Desktop\Commit13\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.pdb
+C:\Users\BINH LUC\Desktop\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csprojResolveAssemblyReference.cache
+C:\Users\BINH LUC\Desktop\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.AddFavoriteWords.resources
+C:\Users\BINH LUC\Desktop\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics.resources
+C:\Users\BINH LUC\Desktop\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.EngtoVnDict.resources
+C:\Users\BINH LUC\Desktop\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Properties.Resources.resources
+C:\Users\BINH LUC\Desktop\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.SpeechtoText.resources
+C:\Users\BINH LUC\Desktop\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csproj.GenerateResource.Cache
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe.config
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.exe
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.pdb
+C:\Users\BINH LUC\Desktop\Commit14\Commit13\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe.config
+C:\Users\BINH LUC\Desktop\Commit14\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.exe
+C:\Users\BINH LUC\Desktop\Commit14\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.pdb
+C:\Users\BINH LUC\Desktop\Commit14\Commit13\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe
+C:\Users\BINH LUC\Desktop\Commit14\Commit13\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.pdb
+C:\Users\BINH LUC\Desktop\Commit14\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csprojResolveAssemblyReference.cache
+C:\Users\BINH LUC\Desktop\Commit14\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.AddFavoriteWords.resources
+C:\Users\BINH LUC\Desktop\Commit14\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics.resources
+C:\Users\BINH LUC\Desktop\Commit14\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.EngtoVnDict.resources
+C:\Users\BINH LUC\Desktop\Commit14\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Properties.Resources.resources
+C:\Users\BINH LUC\Desktop\Commit14\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.SpeechtoText.resources
+C:\Users\BINH LUC\Desktop\Commit14\Commit13\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csproj.GenerateResource.Cache
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.pdb
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csprojResolveAssemblyReference.cache
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.AddFavoriteWords.resources
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics.resources
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.EngtoVnDict.resources
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Properties.Resources.resources
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.SpeechtoText.resources
+C:\Users\BINH LUC\Desktop\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csproj.GenerateResource.Cache
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe.config
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.exe
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\bin\Debug\Eng_Vn Dict.pdb
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.AddFavoriteWords.resources
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Topics.resources
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.EngtoVnDict.resources
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.Properties.Resources.resources
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn_Dict.SpeechtoText.resources
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csproj.GenerateResource.cache
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.csproj.CoreCompileInputs.cache
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.exe
+D:\University Of Information Technology\HOC KY 4\Lap Trinh Truc Quan\BaoCaoCuoiKyLTTQ\BaoCaoCuoiKyLTTQ\Commit14_Ver2.0\Eng_Vn Dict\Eng_Vn Dict\obj\Debug\Eng_Vn Dict.pdb
